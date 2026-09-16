@@ -1,4 +1,4 @@
-# dualevo
+# DualEvo
 
 DualEvo: Open-Set Mobile Traffic Identification via Signature-Gated Contextual Verification. Accepted by TMC
 
